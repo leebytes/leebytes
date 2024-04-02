@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi👋,%20I'm%20Seungeun%20Lee.&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi👋,%20I'm%20Seungeun%20.&fontSize=70" />
   <h3 align="center">A passionate web backend developer from Republic of Korea.</h3>
 </p>
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@tmddms000">
     <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@tmddms000" />
   </a>
-<!--   <a href="https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337">
-    <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337" />
+<!--   <a href="https://www.facebook.com/profile.php?id=100007337051508">
+    <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007337051508" />
   </a> -->
   <a href="mailto:oox14@naver.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oox14@naver.com" />
