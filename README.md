@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-**tmddms000/tmddms000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leebytes/leebytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img alt="tmddms000" src="https://komarev.com/ghpvc/?username=tmddms000&label=Profile%20views&color=0e75b6&style=flat" />
+  <img alt="leebytes" src="https://komarev.com/ghpvc/?username=leebytes&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://hits.seeyoufarm.com">
-    <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddms000%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+    <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%leebytes%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   </a>
 </p>
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>✨ Connect with me: </b>
-  <a href="https://velog.io/@tmddms000">
-    <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@tmddms000" />
+  <a href="https://velog.io/@leebytes">
+    <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@leebytes" />
   </a>
 <!--   <a href="https://www.facebook.com/profile.php?id=100007337051508">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007337051508" />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmddms000&show_icons=true&locale=en" alt="tmddms000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leebytes&show_icons=true&locale=en" alt="leebytes" />
 </p>
 
 <p align="center">
